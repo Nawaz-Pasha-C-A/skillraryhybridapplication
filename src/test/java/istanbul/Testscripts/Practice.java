@@ -1,5 +1,5 @@
 @Test
-public void createTest()
+public void practiceTest()
 {
   system.out.println("======Hi Nawaz=====")
 }
